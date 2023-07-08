@@ -1,0 +1,17 @@
+Marco Rossi 3
+X011 Il_tempo_scorre 12 dicembre 2020
+X002 Dubbi_e_certezze 20 aprile 2018
+X010 Occhi_aperti 14 agosto 2019
+Paola Verdi 2
+YA01 La_nebbia 10 aprile 2021
+YB02 Il_pianoforte 13 marzo 2020
+Marta Bianchi 1
+BB01 Le_montagne 13 settembre 2020
+Roberta Biondi 0
+Andrea Boldi 2
+Z002 In_barca_a_vela 8 ottobre 2018
+Z010 Senza_confini 4 novembre 2019
+Antonio Berti 3
+H011 Il_mare_calmo 1 gennaio 2020
+H002 Il_sole_caldo 2 gennaio 2021
+H010 La_sabbia_chiara 3 agosto 2022
