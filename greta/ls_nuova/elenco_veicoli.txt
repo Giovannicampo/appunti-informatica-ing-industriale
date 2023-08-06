@@ -1,0 +1,1 @@
+Targa a, Modello b, Prezzo 10.000000, km_percorsi 100
